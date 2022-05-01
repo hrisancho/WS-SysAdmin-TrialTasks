@@ -1,4 +1,5 @@
 # Network System Administration
+# Сетевое Системное Администрирование
 Documentation in English is readme_eng.
 
 Репозиторий представляет собой сборник уроков по cisco packet tracer. 
